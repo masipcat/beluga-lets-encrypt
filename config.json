@@ -1,0 +1,11 @@
+{
+    "username": "usern4m3",
+    "password": "v3r1s3cuRe",
+    "sites": {
+	"cdn.example.com": {
+	    "cert_file": "/etc/letsencrypt/live/cdn.example.com/cert.pem",
+	    "chain_file": "/etc/letsencrypt/live/cdn.example.com/chain.pem",
+    	    "privkey_file": "/etc/letsencrypt/live/cdn.example.com/privkey.pem"
+	}
+    }
+}
